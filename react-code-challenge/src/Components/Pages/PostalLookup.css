@@ -1,0 +1,48 @@
+.area {
+  background-color: #348dcd;
+  font-family: monospace;
+  position:absolute;
+  left:30%;
+  top:50%;
+  width:500px;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-right: 30%;
+  padding-top: 5px;
+  margin-left: 20px;
+  box-shadow: 2px 2px 2px #23395b;
+}
+
+.area-country {
+  display: flex;
+  font-size: 0.4cm;
+}
+
+.area-place {
+  margin-left: 10px;
+  margin: 5px;
+  background-color: #b9a853;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #23395b;
+}
+
+.area-name {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.postal-search {
+  margin-left: 20px;
+  background-color: #ffd198;
+  border: solid;
+  position:absolute;
+  width:300px;
+  left:38%;
+  top:30%;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 8px;
+  box-shadow: 2px 2px 2px #2b715d;
+}
